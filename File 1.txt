@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Text 3 in File 1
 Text 5 in File 1
+=======
+Text 4 in File 1
+>>>>>>> 2f4082a08536c06ad34d399a1f9f8cbaa159ec2c
